@@ -1,0 +1,330 @@
+Jan  9 00:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 00:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 01:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 01:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 02:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 02:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 03:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 03:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 04:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 04:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 05:30:55 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Associated User - d4:61:9d:7e:86:aa
+
+Jan  9 05:30:55 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl0.0 (5GHz): Authenticated (WPA2-PSK) User - d4:61:9d:7e:86:aa
+
+Jan  9 05:32:08 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): DisAssociated User - d4:61:9d:7e:86:aa
+
+Jan  9 05:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 05:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 06:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 07:13:23 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 78:88:6d:c3:a3:2c
+
+Jan  9 07:13:23 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Deleting roamed station - 78:88:6d:c3:a3:2c
+
+Jan  9 07:13:23 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 78:88:6d:c3:a3:2c
+
+Jan  9 07:13:35 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Deleting roamed station - 78:88:6d:c3:a3:2c
+
+Jan  9 07:13:35 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Associated User - 78:88:6d:c3:a3:2c
+
+Jan  9 07:13:35 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl0.0 (5GHz): Authenticated (WPA2-PSK) User - 78:88:6d:c3:a3:2c
+
+Jan  9 07:13:58 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 78:88:6d:c3:a3:2c
+
+Jan  9 07:13:58 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Deleting roamed station - 78:88:6d:c3:a3:2c
+
+Jan  9 07:13:58 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 78:88:6d:c3:a3:2c
+
+Jan  9 07:17:03 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Deleting roamed station - 78:88:6d:c3:a3:2c
+
+Jan  9 07:17:03 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Associated User - 78:88:6d:c3:a3:2c
+
+Jan  9 07:17:03 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl0.0 (5GHz): Authenticated (WPA2-PSK) User - 78:88:6d:c3:a3:2c
+
+Jan  9 07:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 07:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 07:47:20 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Deleting roamed station - 78:88:6d:c3:a3:2c
+
+Jan  9 08:05:59 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - cc:08:8d:72:12:a1
+
+Jan  9 08:05:59 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - cc:08:8d:72:12:a1
+
+Jan  9 08:06:00 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Associated User - bc:e1:43:c2:26:ca
+
+Jan  9 08:06:00 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl0.0 (5GHz): Authenticated (WPA2-PSK) User - bc:e1:43:c2:26:ca
+
+Jan  9 08:06:03 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Associated User - 40:83:1d:80:28:15
+
+Jan  9 08:06:03 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl0.0 (5GHz): Authenticated (WPA2-PSK) User - 40:83:1d:80:28:15
+
+Jan  9 08:06:03 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - f8:95:ea:e2:95:bf
+
+Jan  9 08:06:04 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - f8:95:ea:e2:95:bf
+
+Jan  9 08:06:04 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 6c:21:a2:c1:eb:80
+
+Jan  9 08:06:04 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 6c:21:a2:c1:eb:80
+
+Jan  9 08:06:11 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 3c:2e:f9:b5:9f:26
+
+Jan  9 08:06:11 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 3c:2e:f9:b5:9f:26
+
+Jan  9 08:06:11 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 18:f1:d8:b7:74:09
+
+Jan  9 08:06:12 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 18:f1:d8:b7:74:09
+
+Jan  9 08:06:12 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - cc:08:8d:72:12:a1
+
+Jan  9 08:06:17 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - 6c:21:a2:c2:62:be
+
+Jan  9 08:06:17 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 6c:21:a2:c2:62:be
+
+Jan  9 08:06:29 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 6c:21:a2:c2:62:be
+
+Jan  9 08:06:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 6c:21:a2:c2:62:be
+
+Jan  9 08:06:36 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - 6c:21:a2:c2:62:be
+
+Jan  9 08:06:36 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - 6c:21:a2:c2:62:be
+
+Jan  9 08:07:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): DisAssociated User - bc:e1:43:c2:26:ca
+
+Jan  9 08:08:08 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): DisAssociated User - 40:83:1d:80:28:15
+
+Jan  9 08:08:24 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - 3c:2e:f9:b5:9f:26
+
+Jan  9 08:09:20 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - 18:f1:d8:b7:74:09
+
+Jan  9 08:11:38 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Deleting roamed station - f8:95:ea:e2:95:bf
+
+Jan  9 08:25:52 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - f8:95:ea:de:67:65
+
+Jan  9 08:25:52 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - f8:95:ea:de:67:65
+
+Jan  9 08:26:56 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - f8:95:ea:de:67:65
+
+Jan  9 08:30:12 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - f8:95:ea:e2:95:bf
+
+Jan  9 08:30:12 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - f8:95:ea:e2:95:bf
+
+Jan  9 08:31:06 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Deleting roamed station - f8:95:ea:e2:95:bf
+
+Jan  9 08:41:03 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1 (2.4GHz): Detect interference(63per) [with Non-802.11] on channel 11.
+
+Jan  9 08:41:13 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - 6c:21:a2:c1:eb:80
+
+Jan  9 08:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 08:45:25 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing failed for User - f8:95:ea:e2:95:bf
+
+Jan  9 08:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 08:45:40 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing failed for User - 78:88:6d:c3:a3:2c
+
+Jan  9 09:07:37 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 58:cb:52:01:23:4c
+
+Jan  9 09:07:37 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 58:cb:52:01:23:4c
+
+Jan  9 09:07:55 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Deleting roamed station - 58:cb:52:01:23:4c
+
+Jan  9 09:41:18 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Associated User - 58:cb:52:01:23:4c
+
+Jan  9 09:41:18 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl0.0 (5GHz): Authenticated (WPA2-PSK) User - 58:cb:52:01:23:4c
+
+Jan  9 09:42:24 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): DisAssociated User - 58:cb:52:01:23:4c
+
+Jan  9 09:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 09:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 10:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 10:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 11:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 11:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 12:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 12:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 13:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 13:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 14:23:43 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 62:84:bd:2a:c3:48
+
+Jan  9 14:23:44 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 62:84:bd:2a:c3:48
+
+Jan  9 14:23:47 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - 62:84:bd:2a:c3:48
+
+Jan  9 14:23:49 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 62:84:bd:2a:c3:48
+
+Jan  9 14:23:49 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 62:84:bd:2a:c3:48
+
+Jan  9 14:43:49 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Deleting roamed station - 62:84:bd:2a:c3:48
+
+Jan  9 14:44:11 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:44:11 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:44:21 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:44:49 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:44:49 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:44:58 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:13 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:13 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:13 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:13 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:13 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:14 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:14 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 14:45:22 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:25 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing failed for User - 62:84:bd:2a:c3:48
+
+Jan  9 14:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 14:45:35 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:38 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:49 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:49 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:49 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:45:57 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Deleting roamed station - bc:fe:d9:d1:ee:9b
+
+Jan  9 14:47:05 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - 5c:09:47:54:13:65
+
+Jan  9 14:47:47 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 6c:21:a2:c1:eb:80
+
+Jan  9 14:47:47 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - 6c:21:a2:c1:eb:80
+
+Jan  9 15:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 15:45:25 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing failed for User - bc:fe:d9:d1:ee:9b
+
+Jan  9 15:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 16:11:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - f8:95:ea:de:67:65
+
+Jan  9 16:11:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - f8:95:ea:de:67:65
+
+Jan  9 16:19:38 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - f0:9f:fc:84:82:b3
+
+Jan  9 16:19:38 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - f0:9f:fc:84:82:b3
+
+Jan  9 16:19:39 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - f0:9f:fc:84:82:b3
+
+Jan  9 16:19:39 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - f0:9f:fc:84:82:b3
+
+Jan  9 16:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 16:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 17:02:49 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Associated User - 78:88:6d:c3:a3:2c
+
+Jan  9 17:02:49 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl0.0 (5GHz): Authenticated (WPA2-PSK) User - 78:88:6d:c3:a3:2c
+
+Jan  9 17:19:54 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): DisAssociated User - 78:88:6d:c3:a3:2c
+
+Jan  9 17:36:34 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - a8:7d:12:c9:d7:d1
+
+Jan  9 17:36:34 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - a8:7d:12:c9:d7:d1
+
+Jan  9 17:36:36 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Associated User - a8:7d:12:c9:d7:d1
+
+Jan  9 17:36:36 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl0.0 (5GHz): Authenticated (WPA2-PSK) User - a8:7d:12:c9:d7:d1
+
+Jan  9 17:36:54 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - a8:7d:12:c9:d7:d1
+
+Jan  9 17:36:54 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - a8:7d:12:c9:d7:d1
+
+Jan  9 17:36:55 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - a8:7d:12:c9:d7:d1
+
+Jan  9 17:36:55 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - a8:7d:12:c9:d7:d1
+
+Jan  9 17:36:55 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): DisAssociated User - a8:7d:12:c9:d7:d1
+
+Jan  9 17:36:55 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - a8:7d:12:c9:d7:d1
+
+Jan  9 17:37:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): DisAssociated User - a8:7d:12:c9:d7:d1
+
+Jan  9 17:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 17:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 18:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 18:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 19:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 19:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 20:02:47 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1 (2.4GHz): Detect interference(56per) [with Non-802.11] on channel 11.
+
+Jan  9 20:14:46 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1 (2.4GHz): Detect interference(58per) [with Non-802.11] on channel 11.
+
+Jan  9 20:29:08 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1 (2.4GHz): Detect interference(61per) [with Non-802.11] on channel 11.
+
+Jan  9 20:32:35 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1 (2.4GHz): Detect interference(56per) [with Non-802.11] on channel 11.
+
+Jan  9 20:36:16 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1 (2.4GHz): Detect interference(57per) [with Non-802.11] on channel 11.
+
+Jan  9 20:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 21:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 21:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 22:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 22:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
+Jan  9 23:11:43 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Associated User - 78:88:6d:c3:a3:2c
+
+Jan  9 23:11:43 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 78:88:6d:c3:a3:2c
+
+Jan  9 23:11:53 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Deleting roamed station - 78:88:6d:c3:a3:2c
+
+Jan  9 23:11:53 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Associated User - 78:88:6d:c3:a3:2c
+
+Jan  9 23:11:53 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] AUTH: wl0.0 (5GHz): Authenticated (WPA2-PSK) User - 78:88:6d:c3:a3:2c
+
+Jan  9 23:45:15 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl1.0 (2.4GHz): Encryption Key Renewing
+
+Jan  9 23:45:30 fl1-111-169-156-137.tky.mesh.ad.jp [50: C4:DD:0F:4D:E0 AP50C4DD0F4DE0] WIRELESS: wl0.0 (5GHz): Encryption Key Renewing
+
